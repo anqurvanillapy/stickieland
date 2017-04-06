@@ -1,0 +1,7 @@
+# stickieland
+
+WIP.
+
+## License
+
+MIT
